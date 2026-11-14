@@ -1,0 +1,1 @@
+My agent writes flawless code in seconds. It even comments the bugs so the next agent knows what to keep.
